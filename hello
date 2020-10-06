@@ -1,9 +1,7 @@
-
-
 #include <iostream>
 using namespace std;
 
 int main() {
-    cout << "Hello World!";             // amit amit amit amit gjj hjhh
+    cout << "Hello World!";             // amit amit ami
     return 0;
 }
